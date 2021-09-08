@@ -1,4 +1,4 @@
-# Web Developement
+# Web Development
 
 | **Project Name** |    **Repo Link**   |
 | :---             |    :----:          |
