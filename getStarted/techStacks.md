@@ -1,9 +1,7 @@
-Tech Stacks
-- HTML CSS JS
-- MERN
-- Android
-- Flutter
-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsouravseal99%2FtoContrubutors%2Fblob%2Fmain%2FgetStarted%2FtechStacks.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+## Categories
+- [AI/ML](../getStarted/data/AI_ML.md)
+- [Coding Problems](../getStarted/data/coding.md)
+- [Mobile Development](../getStarted/data/mobile.md)
+- [Web Development](../getStarted/data/web.md)
+- [Python App](../getStarted/data/pythonApp.md)
 
