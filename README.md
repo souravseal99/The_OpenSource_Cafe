@@ -20,7 +20,7 @@ The goal should be to contribute to the project even after the event ends.
     
 ## Let's Get Started
 
-  - [GetStarted](../getStarted/techStack.md)
+  - [GetStarted](/getStarted/techStacks.md)
 
 ## How to Help
     Simple...!
